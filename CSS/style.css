@@ -1,0 +1,40 @@
+/* Tag selectors */
+
+body {
+    background-color: lightcyan;
+}
+
+h1{
+    color:darkgray;
+}
+h3{
+    color:darkgray; 
+}
+
+hr {
+    background-color: white;
+    border-style: none;
+    border-top-style: dotted;
+    border-color:darksalmon;
+    border-width: 7px;
+    width: 30%;
+}
+
+/* img{
+    background-color: brown;
+} */
+
+/* Class selectors */
+
+.hacker{
+    background-color: green;
+}
+.spider{
+    background-color: red;
+}
+
+/* ID selectors */
+
+#heading{
+    color: brown;
+}
